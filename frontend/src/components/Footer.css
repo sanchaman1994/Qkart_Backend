@@ -1,0 +1,29 @@
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #1e2833;
+  text-align: center;
+  height: 100px;
+  z-index: 2;
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  height: 200px; /* Optional, set the height of the container */
+}
+
+/* Add any custom styles for the footer here */
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color:white;
+}
+
+/* Style for the image */
+.footer img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Adjust the height as needed */
+}
