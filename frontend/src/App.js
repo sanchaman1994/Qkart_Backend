@@ -14,7 +14,7 @@ import Thanks from "./components/Thanks";
 
 
 export const config = {
-  endpoint: `https://qkart-backend-46d2.onrender.com/v1`,
+  endpoint: `https://qkart-backend-z4yh.onrender.com/v1/`,
 };
 
 export default function App(props) {
